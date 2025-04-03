@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "462784924493",
+    "project_id": "upaay-001",
+    "storage_bucket": "upaay-001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462784924493:android:4948d64bdee82950b84504",
+        "android_client_info": {
+          "package_name": "com.example.astroclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462784924493-9lmgft6ln98qc8vsnnkftn5ds80qv7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5kyPtHUyUWPJWvlar1jQDa4gH_STRdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462784924493-9lmgft6ln98qc8vsnnkftn5ds80qv7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462784924493:android:a86d43a3fef9fe46b84504",
+        "android_client_info": {
+          "package_name": "com.example.upaayforastrologers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462784924493-jf3hgfir3d47907srv4j1ae12pn0p850.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.upaayforastrologers",
+            "certificate_hash": "41615b3e0641ace7d5214fa9c0c2933edb10d7ed"
+          }
+        },
+        {
+          "client_id": "462784924493-9lmgft6ln98qc8vsnnkftn5ds80qv7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5kyPtHUyUWPJWvlar1jQDa4gH_STRdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462784924493-9lmgft6ln98qc8vsnnkftn5ds80qv7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462784924493:android:a9d22e1b52fcb9beb84504",
+        "android_client_info": {
+          "package_name": "com.solutions.upaay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462784924493-iu6tu43sfbgeat1n08tqde9nrhj57eh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solutions.upaay",
+            "certificate_hash": "41615b3e0641ace7d5214fa9c0c2933edb10d7ed"
+          }
+        },
+        {
+          "client_id": "462784924493-9lmgft6ln98qc8vsnnkftn5ds80qv7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5kyPtHUyUWPJWvlar1jQDa4gH_STRdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462784924493-9lmgft6ln98qc8vsnnkftn5ds80qv7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
